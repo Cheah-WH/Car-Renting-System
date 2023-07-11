@@ -1,8 +1,8 @@
 # Car-Renting-System
 
-This program can be use by a user to rent a vehicle.
-The user need to return the vehicle before he can rent another one.
-This programme is done without using text-file as requested by the assignment question. 
-Thus, the data processed is not stored in anywhere.
-The data will lost once you terminate the programme.
-Thank you.
+This program allows users to rent vehicles.
+The user needs to return the vehicle before renting another one.
+This program does not use a text file, as requested by the assignment.
+Therefore, the processed data is not stored anywhere.
+The data will be lost once you terminate the program.
+
